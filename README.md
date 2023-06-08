@@ -1,4 +1,4 @@
-# Résumé
+## Ahsan Sally
 
 This is a summary of my work experience, please get in touch via [LinkedIn](https://www.linkedin.com/in/ahsansally/), [Twitter](https://twitter.com/ahsansally) or <email@ahsan.one> if you need a full copy of my detailed résumé. Always open to new opportunities so feel free to reach out anytime.
 
