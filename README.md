@@ -37,9 +37,9 @@ I consider myself a full-stack developer with a strong focus on backend developm
 <img alt="JQuery" style="padding-right:15px;padding-bottom:15px;width:75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" align="left">
 <img alt="NodeJS" style="padding-right:15px;padding-bottom:15px;width:75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" align="left">
 <img alt="TypeScript" style="padding-right:15px;padding-bottom:15px;width:75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="left">
-<img alt="Swagger" style="padding-right:15px;padding-top:0;width:200;" src="/img/blog/swagger_logo.svg" align="left">
-<img alt="RESTApi" style="padding-right:15px;padding-top:0;width:75;" src="/img/blog/rest-api-icon.svg" align="left">
-<img alt="NUnit" style="padding-right:0;padding-top:14px;width:75;" src="/img/blog/NUnit_logo.png" align="left">
+<img alt="Swagger" style="padding-right:15px;padding-top:0;width:200;" src="https://github.com/ahsan-sally/ahsan-sally/blob/main/images/swagger.svg" align="left">
+<img alt="RESTApi" style="padding-right:15px;padding-top:0;width:75;" src="https://github.com/ahsan-sally/ahsan-sally/blob/main/images/rest-api.svg" align="left">
+<img alt="NUnit" style="padding-right:0;padding-top:14px;width:75;" src="https://github.com/ahsan-sally/ahsan-sally/blob/main/images/n-unit.png" align="left">
 
 </div>
 <br/>
