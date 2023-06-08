@@ -42,7 +42,7 @@ I consider myself a full-stack developer with a strong focus on backend developm
 <img alt="NUnit" style="padding-right:0;padding-top:14px;width:75;" src="/img/blog/NUnit_logo.png" align="left">
 
 </div>
-
+<br/>
 ### Methodologies
 
 - Agile / Scrum
