@@ -7,7 +7,7 @@ This is a summary of my work experience, please get in touch via [LinkedIn](http
 - 18+ years of experience in the IT industry (10 years in Australia)
 - MSc in Computer Science from the Cardiff Metropolitan University
 - Multiple Microsoft certifications and AWS certifications
-- Worked in a variety of roles including software development, technical consulting, and team leadership
+- Have worked in a variety of roles including software development, technical consulting, and team leadership
 
 ## Core Skills
 
